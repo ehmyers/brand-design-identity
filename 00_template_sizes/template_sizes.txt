@@ -1,0 +1,2 @@
+envelope type 10: 4.125 x 11.75
+letterhead type a4: 8.25 x 11.75
